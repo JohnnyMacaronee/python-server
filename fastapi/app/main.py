@@ -23,4 +23,4 @@ def home(request: Request):
 
 @app.get("/abc")
 def read_abc():
-    return {"page:": "abc", "db": settings.APP_DB is not None}
+    return {"page": "abc", "db": settings.app_db is not None}
