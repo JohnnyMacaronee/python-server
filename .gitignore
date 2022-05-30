@@ -7,3 +7,4 @@ pyvenv.cfg
 share/
 __pychache__/
 app/__pycache__/
+reference.md
