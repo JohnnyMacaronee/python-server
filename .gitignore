@@ -7,4 +7,9 @@ pyvenv.cfg
 share/
 __pychache__/
 app/__pycache__/
-reference.md
+reference.mds
+app/.env
+.env
+*.pyo
+*.pyc
+postgresql-server/
